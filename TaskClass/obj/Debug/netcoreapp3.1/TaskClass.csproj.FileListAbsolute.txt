@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.exe
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.deps.json
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.runtimeconfig.json
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.runtimeconfig.dev.json
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.dll
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\bin\Debug\netcoreapp3.1\TaskClass.pdb
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.AssemblyInfo.cs
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.dll
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.pdb
+\\Mac\Home\Desktop\homeworks\TaskClass\TaskClass\obj\Debug\netcoreapp3.1\TaskClass.genruntimeconfig.cache
